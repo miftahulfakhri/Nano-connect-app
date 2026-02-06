@@ -1,0 +1,2 @@
+supabase
+database pw : B9k6wTYD6*ksj5D
